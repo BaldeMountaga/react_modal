@@ -73,6 +73,10 @@ p.lorem-text {
   box-shadow: 0;
   cursor: pointer;
 }
+._modal-close:hover{
+  background-color: #ec5c49;
+  color: #ffffff;
+}
 
 ._modal-close-icon {
   width: 25px;
